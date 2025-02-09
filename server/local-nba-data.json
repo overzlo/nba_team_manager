@@ -417,5 +417,474 @@
         }
       ]
     }
+  ],
+  "stadium": [
+    {
+      "id": 1,
+      "name": "Chase Center",
+      "city": "San Francisco",
+      "team": {
+        "id": 10,
+        "conference": "West",
+        "division": "Pacific",
+        "city": "Golden State",
+        "name": "Warriors",
+        "full_name": "Golden State Warriors",
+        "abbreviation": "GSW"
+      },
+      "capacity": 18064,
+      "stadium_image_url": "https://avatars.mds.yandex.net/i?id=09d2763e93573be98096d3670a5715a7_l-5334917-images-thumbs&n=13"
+    },
+    {
+      "id": 2,
+      "name": "Staples Center",
+      "city": "Los Angeles",
+      "team": {
+        "id": 14,
+        "conference": "West",
+        "division": "Pacific",
+        "city": "Los Angeles",
+        "name": "Lakers",
+        "full_name": "Los Angeles Lakers",
+        "abbreviation": "LAL"
+      },
+      "capacity": 19060,
+      "stadium_image_url": "https://www.staplescenter.com/"
+    },
+    {
+      "id": 3,
+      "name": "Madison Square Garden",
+      "city": "New York",
+      "team": {
+        "id": 20,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "New York",
+        "name": "Knicks",
+        "full_name": "New York Knicks",
+        "abbreviation": "NYK"
+      },
+      "capacity": 19812,
+      "stadium_image_url": "https://www.msg.com/madison-square-garden"
+    },
+    {
+      "id": 4,
+      "name": "TD Garden",
+      "city": "Boston",
+      "team": {
+        "id": 2,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "Boston",
+        "name": "Celtics",
+        "full_name": "Boston Celtics",
+        "abbreviation": "BOS"
+      },
+      "capacity": 19156,
+      "stadium_image_url": "https://www.tdgarden.com/"
+    },
+    {
+      "id": 5,
+      "name": "American Airlines Center",
+      "city": "Dallas",
+      "team": {
+        "id": 6,
+        "conference": "West",
+        "division": "Southwest",
+        "city": "Dallas",
+        "name": "Mavericks",
+        "full_name": "Dallas Mavericks",
+        "abbreviation": "DAL"
+      },
+      "capacity": 19200,
+      "stadium_image_url": "https://www.americanairlinescenter.com/"
+    },
+    {
+      "id": 6,
+      "name": "United Center",
+      "city": "Chicago",
+      "team": {
+        "id": 21,
+        "conference": "East",
+        "division": "Central",
+        "city": "Chicago",
+        "name": "Bulls",
+        "full_name": "Chicago Bulls",
+        "abbreviation": "CHI"
+      },
+      "capacity": 20917,
+      "stadium_image_url": "https://www.unitedcenter.com/"
+    },
+    {
+      "id": 7,
+      "name": "FTX Arena",
+      "city": "Miami",
+      "team": {
+        "id": 16,
+        "conference": "East",
+        "division": "Southeast",
+        "city": "Miami",
+        "name": "Heat",
+        "full_name": "Miami Heat",
+        "abbreviation": "MIA"
+      },
+      "capacity": 19600,
+      "stadium_image_url": "https://www.ftxarena.com/"
+    },
+    {
+      "id": 8,
+      "name": "Ball Arena",
+      "city": "Denver",
+      "team": {
+        "id": 8,
+        "conference": "West",
+        "division": "Northwest",
+        "city": "Denver",
+        "name": "Nuggets",
+        "full_name": "Denver Nuggets",
+        "abbreviation": "DEN"
+      },
+      "capacity": 19520,
+      "stadium_image_url": "https://www.ballarena.com/"
+    },
+    {
+      "id": 9,
+      "name": "Barclays Center",
+      "city": "Brooklyn",
+      "team": {
+        "id": 3,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "Brooklyn",
+        "name": "Nets",
+        "full_name": "Brooklyn Nets",
+        "abbreviation": "BKN"
+      },
+      "capacity": 17732,
+      "stadium_image_url": "https://www.barclayscenter.com/"
+    },
+    {
+      "id": 10,
+      "name": "Fiserv Forum",
+      "city": "Milwaukee",
+      "team": {
+        "id": 17,
+        "conference": "East",
+        "division": "Central",
+        "city": "Milwaukee",
+        "name": "Bucks",
+        "full_name": "Milwaukee Bucks",
+        "abbreviation": "MIL"
+      },
+      "capacity": 17500,
+      "stadium_image_url": "https://www.fiservforum.com/"
+    },
+    {
+      "id": 11,
+      "name": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "team": {
+        "id": 23,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "Philadelphia",
+        "name": "76ers",
+        "full_name": "Philadelphia 76ers",
+        "abbreviation": "PHI"
+      },
+      "capacity": 20478,
+      "stadium_image_url": "https://www.wellsfargocenterphilly.com/"
+    },
+    {
+      "id": 12,
+      "name": "Scotiabank Arena",
+      "city": "Toronto",
+      "team": {
+        "id": 28,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "Toronto",
+        "name": "Raptors",
+        "full_name": "Toronto Raptors",
+        "abbreviation": "TOR"
+      },
+      "capacity": 19800,
+      "stadium_image_url": "https://www.scotiabankarena.com/"
+    },
+    {
+      "id": 13,
+      "name": "State Farm Arena",
+      "city": "Atlanta",
+      "team": {
+        "id": 1,
+        "conference": "East",
+        "division": "Southeast",
+        "city": "Atlanta",
+        "name": "Hawks",
+        "full_name": "Atlanta Hawks",
+        "abbreviation": "ATL"
+      },
+      "capacity": 16600,
+      "stadium_image_url": "https://www.statefarmarena.com/"
+    },
+    {
+      "id": 14,
+      "name": "Moda Center",
+      "city": "Portland",
+      "team": {
+        "id": 25,
+        "conference": "West",
+        "division": "Northwest",
+        "city": "Portland",
+        "name": "Trail Blazers",
+        "full_name": "Portland Trail Blazers",
+        "abbreviation": "POR"
+      },
+      "capacity": 19441,
+      "stadium_image_url": "https://www.modacenter.com/"
+    },
+    {
+      "id": 15,
+      "name": "Vivint Arena",
+      "city": "Salt Lake City",
+      "team": {
+        "id": 26,
+        "conference": "West",
+        "division": "Northwest",
+        "city": "Utah",
+        "name": "Jazz",
+        "full_name": "Utah Jazz",
+        "abbreviation": "UTA"
+      },
+      "capacity": 18306,
+      "stadium_image_url": "https://www.vivintarena.com/"
+    }
+  ],
+  "trainer": [
+    {
+      "id": 1,
+      "first_name": "Steve",
+      "last_name": "Kerr",
+      "team": {
+        "id": 10,
+        "conference": "West",
+        "division": "Pacific",
+        "city": "Golden State",
+        "name": "Warriors",
+        "full_name": "Golden State Warriors",
+        "abbreviation": "GSW"
+      },
+      "image_url": "https://www.film.ru/sites/default/files/people/_tmdb/7hrMDyMecFJKNNQb7ToIEqDQ3ts.jpg"
+    },
+    {
+      "id": 2,
+      "first_name": "Gregg",
+      "last_name": "Popovich",
+      "team": {
+        "id": 27,
+        "conference": "West",
+        "division": "Southwest",
+        "city": "San Antonio",
+        "name": "Spurs",
+        "full_name": "San Antonio Spurs",
+        "abbreviation": "SAS"
+      },
+      "image_url": "https://www.nba.com/spurs/coach/gregg-popovich"
+    },
+    {
+      "id": 3,
+      "first_name": "Erik",
+      "last_name": "Spoelstra",
+      "team": {
+        "id": 16,
+        "conference": "East",
+        "division": "Southeast",
+        "city": "Miami",
+        "name": "Heat",
+        "full_name": "Miami Heat",
+        "abbreviation": "MIA"
+      },
+      "image_url": "https://www.nba.com/heat/coach/erik-spoelstra"
+    },
+    {
+      "id": 4,
+      "first_name": "Tyronn",
+      "last_name": "Lue",
+      "team": {
+        "id": 12,
+        "conference": "West",
+        "division": "Pacific",
+        "city": "Los Angeles",
+        "name": "Clippers",
+        "full_name": "Los Angeles Clippers",
+        "abbreviation": "LAC"
+      },
+      "image_url": "https://www.nba.com/clippers/coach/tyronn-lue"
+    },
+    {
+      "id": 5,
+      "first_name": "Doc",
+      "last_name": "Rivers",
+      "team": {
+        "id": 23,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "Philadelphia",
+        "name": "76ers",
+        "full_name": "Philadelphia 76ers",
+        "abbreviation": "PHI"
+      },
+      "image_url": "https://www.nba.com/76ers/coach/doc-rivers"
+    },
+    {
+      "id": 6,
+      "first_name": "Nick",
+      "last_name": "Nurse",
+      "team": {
+        "id": 28,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "Toronto",
+        "name": "Raptors",
+        "full_name": "Toronto Raptors",
+        "abbreviation": "TOR"
+      },
+      "image_url": "https://www.nba.com/raptors/coach/nick-nurse"
+    },
+    {
+      "id": 7,
+      "first_name": "Monty",
+      "last_name": "Williams",
+      "team": {
+        "id": 29,
+        "conference": "West",
+        "division": "Pacific",
+        "city": "Phoenix",
+        "name": "Suns",
+        "full_name": "Phoenix Suns",
+        "abbreviation": "PHX"
+      },
+      "image_url": "https://www.nba.com/suns/coach/monty-williams"
+    },
+    {
+      "id": 8,
+      "first_name": "Michael",
+      "last_name": "Malone",
+      "team": {
+        "id": 8,
+        "conference": "West",
+        "division": "Northwest",
+        "city": "Denver",
+        "name": "Nuggets",
+        "full_name": "Denver Nuggets",
+        "abbreviation": "DEN"
+      },
+      "image_url": "https://www.nba.com/nuggets/coach/michael-malone"
+    },
+    {
+      "id": 9,
+      "first_name": "Rick",
+      "last_name": "Carlisle",
+      "team": {
+        "id": 6,
+        "conference": "West",
+        "division": "Southwest",
+        "city": "Dallas",
+        "name": "Mavericks",
+        "full_name": "Dallas Mavericks",
+        "abbreviation": "DAL"
+      },
+      "image_url": "https://www.nba.com/mavericks/coach/rick-carlisle"
+    },
+    {
+      "id": 10,
+      "first_name": "Tom",
+      "last_name": "Thibodeau",
+      "team": {
+        "id": 20,
+        "conference": "East",
+        "division": "Atlantic",
+        "city": "New York",
+        "name": "Knicks",
+        "full_name": "New York Knicks",
+        "abbreviation": "NYK"
+      },
+      "image_url": "https://www.nba.com/knicks/coach/tom-thibodeau"
+    },
+    {
+      "id": 11,
+      "first_name": "Billy",
+      "last_name": "Donovan",
+      "team": {
+        "id": 21,
+        "conference": "East",
+        "division": "Central",
+        "city": "Chicago",
+        "name": "Bulls",
+        "full_name": "Chicago Bulls",
+        "abbreviation": "CHI"
+      },
+      "image_url": "https://www.nba.com/bulls/coach/billy-donovan"
+    },
+    {
+      "id": 12,
+      "first_name": "Frank",
+      "last_name": "Vogel",
+      "team": {
+        "id": 14,
+        "conference": "West",
+        "division": "Pacific",
+        "city": "Los Angeles",
+        "name": "Lakers",
+        "full_name": "Los Angeles Lakers",
+        "abbreviation": "LAL"
+      },
+      "image_url": "https://www.nba.com/lakers/coach/frank-vogel"
+    },
+    {
+      "id": 13,
+      "first_name": "Quin",
+      "last_name": "Snyder",
+      "team": {
+        "id": 26,
+        "conference": "West",
+        "division": "Northwest",
+        "city": "Utah",
+        "name": "Jazz",
+        "full_name": "Utah Jazz",
+        "abbreviation": "UTA"
+      },
+      "image_url": "https://www.nba.com/jazz/coach/quin-snyder"
+    },
+    {
+      "id": 14,
+      "first_name": "Nate",
+      "last_name": "McMillan",
+      "team": {
+        "id": 1,
+        "conference": "East",
+        "division": "Southeast",
+        "city": "Atlanta",
+        "name": "Hawks",
+        "full_name": "Atlanta Hawks",
+        "abbreviation": "ATL"
+      },
+      "image_url": "https://www.nba.com/hawks/coach/nate-mcmillan"
+    },
+    {
+      "id": 15,
+      "first_name": "Chauncey",
+      "last_name": "Billups",
+      "team": {
+        "id": 25,
+        "conference": "West",
+        "division": "Northwest",
+        "city": "Portland",
+        "name": "Trail Blazers",
+        "full_name": "Portland Trail Blazers",
+        "abbreviation": "POR"
+      },
+      "image_url": "https://www.nba.com/blazers/coach/chauncey-billups"
+    }
   ]
 }
