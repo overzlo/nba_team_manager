@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+html, body {
+    @apply bg-gradient-to-b from-purple-500 to-orange-500
+}
